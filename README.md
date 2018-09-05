@@ -31,7 +31,7 @@ __Solution at High Level:__
 
 Project repository is cloned to your drive using following command
 ```
-git clone <git URL of this project>
+git clone https://github.com/kkSelfPractice/search-assignment.git
 ```
 Chromedriver needed to be do downloaded on your machine.
 It can be downloaded from: http://chromedriver.chromium.org/downloads
