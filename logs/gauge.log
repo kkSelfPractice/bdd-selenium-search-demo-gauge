@@ -1,0 +1,697 @@
+21:10:36.113 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:10:36.635 Gauge daemon initialized and listening on port: 63157
+21:12:41.099 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:12:42.781 Checking updates...
+21:13:11.579 Runner connection error: Timed out connecting to [::]:63342
+21:13:11.580 Failed to start gauge API: Timed out connecting to [::]:63342
+21:15:01.448 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:15:03.171 Checking updates...
+21:17:32.510 Plugin [Html Report] with pid [8607] has exited
+21:17:33.138 Specifications:	0 executed	0 passed	0 failed	0 skipped
+21:17:33.138 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+21:17:33.139 
+Total time taken: 2m18.889s
+21:18:27.308 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:18:31.529 Checking updates...
+21:18:58.571 Plugin [Html Report] with pid [8667] has exited
+21:18:59.195 Specifications:	0 executed	0 passed	0 failed	0 skipped
+21:18:59.195 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+21:18:59.195 
+Total time taken: 19.976s
+22:05:44.016 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:05:47.884 Checking updates...
+22:06:01.440 Plugin [Html Report] with pid [9341] has exited
+22:06:02.052 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:06:02.052 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:06:02.052 
+Total time taken: 2.921s
+22:07:04.221 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:07:05.228 Unable to send analytics data, timed out
+22:07:07.846 Checking updates...
+22:07:18.960 Plugin [Html Report] with pid [9367] has exited
+22:07:19.574 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:07:19.575 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:07:19.575 
+Total time taken: 2.294s
+22:07:47.823 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:07:51.923 Checking updates...
+22:08:02.691 Plugin [Html Report] with pid [9389] has exited
+22:08:03.314 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:08:03.314 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:08:03.314 
+Total time taken: 2.308s
+22:09:21.576 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:09:24.154 Checking updates...
+22:09:36.883 Plugin [Html Report] with pid [10010] has exited
+22:09:37.501 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:09:37.501 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:09:37.501 
+Total time taken: 2.147s
+22:11:03.489 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:11:05.554 Checking updates...
+22:11:17.891 Plugin [Html Report] with pid [10042] has exited
+22:11:18.504 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:11:18.504 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:11:18.504 
+Total time taken: 2.804s
+22:13:17.422 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:13:20.439 Checking updates...
+22:14:03.556 Plugin [Html Report] with pid [10098] has exited
+22:14:04.170 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:14:04.170 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:14:04.170 
+Total time taken: 31.917s
+22:23:11.241 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:23:16.228 Checking updates...
+22:23:40.757 Plugin [Html Report] with pid [10269] has exited
+22:23:41.268 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:23:41.268 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:23:41.268 
+Total time taken: 17.591s
+22:25:31.350 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:25:35.183 Checking updates...
+22:26:13.432 Plugin [Html Report] with pid [10328] has exited
+22:26:13.943 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:26:13.943 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:26:13.943 
+Total time taken: 30.69s
+22:28:51.311 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:28:52.314 Unable to send analytics data, timed out
+22:28:53.316 Unable to send analytics data, timed out
+22:28:54.815 Checking updates...
+22:29:13.000 Plugin [Html Report] with pid [10394] has exited
+22:29:13.514 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:29:13.514 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:29:13.514 
+Total time taken: 9.866s
+22:33:23.993 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:33:27.411 Checking updates...
+22:33:52.554 Plugin [Html Report] with pid [10484] has exited
+22:33:53.177 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:33:53.177 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:33:53.177 
+Total time taken: 13.705s
+22:35:12.211 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:35:13.216 Unable to send analytics data, timed out
+22:35:16.603 Checking updates...
+22:35:39.049 Plugin [Html Report] with pid [10533] has exited
+22:35:39.566 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:35:39.566 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:35:39.566 
+Total time taken: 13.831s
+22:36:03.969 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:36:04.979 Unable to send analytics data, timed out
+22:36:09.043 Checking updates...
+22:36:27.576 Plugin [Html Report] with pid [10566] has exited
+22:36:27.880 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:36:27.880 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:36:27.880 
+Total time taken: 12.001s
+22:49:54.432 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:50:00.187 Checking updates...
+22:50:23.430 Plugin [Html Report] with pid [10775] has exited
+22:50:23.636 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:50:23.636 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:50:23.636 
+Total time taken: 16.669s
+22:56:01.842 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:56:02.848 Unable to send analytics data, timed out
+22:56:08.178 Checking updates...
+22:56:25.156 Plugin [Html Report] with pid [10884] has exited
+22:56:25.358 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:56:25.358 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:56:25.358 
+Total time taken: 11.01s
+22:57:52.127 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:57:53.132 Unable to send analytics data, timed out
+22:57:55.358 Checking updates...
+22:58:20.210 Plugin [Html Report] with pid [10931] has exited
+22:58:20.418 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:58:20.418 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:58:20.418 
+Total time taken: 14.225s
+22:58:57.257 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:58:58.262 Unable to send analytics data, timed out
+22:58:59.262 Unable to send analytics data, timed out
+22:59:00.716 Checking updates...
+22:59:19.911 Plugin [Html Report] with pid [10967] has exited
+22:59:20.118 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:59:20.118 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:59:20.118 
+Total time taken: 10.689s
+22:59:58.133 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:00:02.132 Checking updates...
+23:00:20.717 Plugin [Html Report] with pid [11004] has exited
+23:00:20.922 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:00:20.922 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:00:20.922 
+Total time taken: 11.602s
+23:00:49.790 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:00:50.795 Unable to send analytics data, timed out
+23:00:53.540 Checking updates...
+23:01:13.568 Plugin [Html Report] with pid [11041] has exited
+23:01:13.873 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:01:13.873 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:01:13.874 
+Total time taken: 12.328s
+23:01:29.560 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:01:33.691 Checking updates...
+23:01:56.374 Plugin [Html Report] with pid [11073] has exited
+23:01:56.583 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:01:56.583 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:01:56.583 
+Total time taken: 11.904s
+23:03:45.780 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:03:48.017 Checking updates...
+23:04:16.301 Plugin [Html Report] with pid [11125] has exited
+23:04:16.505 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:04:16.505 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:04:16.505 
+Total time taken: 17.615s
+23:16:54.036 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:17:01.511 Checking updates...
+23:17:19.110 Plugin [Html Report] with pid [11323] has exited
+23:17:19.416 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:17:19.416 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:17:19.416 
+Total time taken: 11.611s
+23:17:31.551 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:17:35.075 Checking updates...
+23:17:57.478 Plugin [Html Report] with pid [11353] has exited
+23:17:57.679 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:17:57.679 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:17:57.679 
+Total time taken: 15.239s
+23:18:08.984 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:18:11.997 Checking updates...
+23:18:33.945 Plugin [Html Report] with pid [11386] has exited
+23:18:34.149 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:18:34.149 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:18:34.149 
+Total time taken: 14.419s
+23:21:21.984 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:21:25.331 Checking updates...
+23:21:44.158 Plugin [Html Report] with pid [11453] has exited
+23:21:44.363 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:21:44.363 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:21:44.363 
+Total time taken: 10.901s
+23:34:59.608 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:35:00.615 Unable to send analytics data, timed out
+23:35:01.851 No specifications found in /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/specs/example.spec.
+23:35:03.015 Checking updates...
+23:35:05.853 Killing runner with PID:11692 forcefully
+23:35:58.338 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:36:00.761 Checking updates...
+23:36:18.976 Plugin [Html Report] with pid [11715] has exited
+23:36:19.278 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:36:19.278 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:36:19.278 
+Total time taken: 9.737s
+20:26:32.665 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:26:34.420 Checking updates...
+20:27:00.251 Plugin [Html Report] with pid [18621] has exited
+20:27:00.860 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:27:00.860 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:27:00.860 
+Total time taken: 18.045s
+20:28:08.493 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:28:10.155 Checking updates...
+20:28:39.192 Plugin [Html Report] with pid [20227] has exited
+20:28:39.804 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:28:39.804 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:28:39.804 
+Total time taken: 22.047s
+20:31:10.924 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:31:12.625 Checking updates...
+20:31:43.060 Plugin [Html Report] with pid [20295] has exited
+20:31:43.676 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:31:43.676 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:31:43.676 
+Total time taken: 22.985s
+20:41:11.903 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:41:13.597 Checking updates...
+20:41:41.850 Plugin [Html Report] with pid [20447] has exited
+20:41:42.458 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:41:42.458 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:41:42.458 
+Total time taken: 21.476s
+20:42:36.207 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:42:37.772 Checking updates...
+20:42:56.204 Plugin [Html Report] with pid [20490] has exited
+20:42:56.507 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:42:56.507 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:42:56.507 
+Total time taken: 10.522s
+20:55:19.730 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:55:21.280 Checking updates...
+20:56:06.632 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:56:08.386 Checking updates...
+20:56:31.616 Plugin [Html Report] with pid [20701] has exited
+20:56:32.229 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:56:32.229 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:56:32.229 
+Total time taken: 15.296s
+20:59:33.272 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+20:59:34.930 Checking updates...
+20:59:54.881 Plugin [Html Report] with pid [20766] has exited
+20:59:55.390 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:59:55.390 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:59:55.390 
+Total time taken: 13.169s
+21:05:18.493 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:05:20.078 Checking updates...
+21:05:43.525 Plugin [Html Report] with pid [20867] has exited
+21:05:44.040 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:05:44.040 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:05:44.040 
+Total time taken: 16.029s
+21:31:41.539 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:31:43.079 Checking updates...
+21:32:09.897 Plugin [Html Report] with pid [21256] has exited
+21:32:10.314 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:32:10.314 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:32:10.314 
+Total time taken: 18.582s
+21:34:26.424 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:34:28.019 Checking updates...
+21:34:45.301 Plugin [Html Report] with pid [21316] has exited
+21:34:45.504 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:34:45.504 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:34:45.504 
+Total time taken: 8.542s
+21:36:51.787 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:36:53.426 Checking updates...
+21:37:07.910 Plugin [Html Report] with pid [21373] has exited
+21:37:08.222 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:37:08.222 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:37:08.222 
+Total time taken: 6.312s
+21:37:58.598 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:38:00.432 Checking updates...
+21:38:13.659 Plugin [Html Report] with pid [21410] has exited
+21:38:13.861 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:38:13.861 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:38:13.861 
+Total time taken: 5.712s
+21:38:30.366 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:38:31.890 Checking updates...
+21:38:45.902 Plugin [Html Report] with pid [21439] has exited
+21:38:46.104 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:38:46.104 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:38:46.104 
+Total time taken: 6.577s
+21:53:55.195 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:53:56.971 Checking updates...
+21:54:11.232 Plugin [Html Report] with pid [21670] has exited
+21:54:11.434 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:54:11.434 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:54:11.434 
+Total time taken: 5.747s
+21:54:22.345 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:54:23.801 Checking updates...
+21:54:37.525 Plugin [Html Report] with pid [21701] has exited
+21:54:37.833 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:54:37.833 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:54:37.833 
+Total time taken: 5.413s
+21:54:51.219 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:54:52.885 Checking updates...
+21:55:05.709 Plugin [Html Report] with pid [21732] has exited
+21:55:06.016 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:55:06.016 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:55:06.016 
+Total time taken: 5.336s
+21:58:29.451 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:58:31.101 Checking updates...
+21:58:45.257 Plugin [Html Report] with pid [21804] has exited
+21:58:45.564 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:58:45.564 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:58:45.564 
+Total time taken: 6.712s
+22:00:38.503 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:00:39.995 Checking updates...
+22:00:54.328 Plugin [Html Report] with pid [21858] has exited
+22:00:54.634 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:00:54.635 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:00:54.635 
+Total time taken: 6.712s
+22:01:01.282 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:01:03.067 Checking updates...
+22:01:17.899 Plugin [Html Report] with pid [21887] has exited
+22:01:18.100 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:01:18.100 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:01:18.100 
+Total time taken: 6.68s
+22:02:54.019 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:02:55.812 Checking updates...
+22:02:59.445 # Google Search Specification
+22:02:59.447 ## Google search should return the name of query
+22:02:59.451 * Navigate to "https://www.google.co.in" site
+22:03:01.558 * Enter query "query" in the search box
+22:03:01.676 * Verify suggestion is displayed
+22:03:01.723 * Click on find button
+22:03:03.811 * Verify Dictionary is shown with "query" as result
+22:03:04.050 Plugin [Html Report] with pid [21995] has exited
+22:03:04.151 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:03:04.151 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:03:04.151 
+Total time taken: 5.644s
+22:03:23.066 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:03:24.690 Checking updates...
+22:03:28.116 # Google Search Specification
+22:03:28.119 ## Google search should return the name of query
+22:03:28.125 * Navigate to "https://www.google.co.in" site
+22:03:30.210 * Enter query "query" in the search box
+22:03:30.334 * Verify suggestion is displayed
+22:03:30.382 * Click on find button
+22:03:31.977 * Verify Dictionary is shown with "query" as result
+22:03:32.214 Plugin [Html Report] with pid [22044] has exited
+22:03:32.315 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:03:32.316 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:03:32.316 
+Total time taken: 5.101s
+23:12:56.992 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+23:12:56.996 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+23:12:56.998 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+23:12:57.001 Checking updates...
+23:12:57.004 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+23:12:57.005 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+23:12:57.007 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+23:12:57.008 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+23:13:21.492 Plugin [Html Report] with pid [22382] has exited
+23:13:22.005 Specifications:	1 executed	0 passed	1 failed	0 skipped
+23:13:22.005 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+23:13:22.005 
+Total time taken: 14.621s
+00:15:07.430 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:15:07.762 [ParseError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:49 Scenario should have atleast one step => ''
+00:15:08.922 Checking updates...
+00:15:25.316 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:75 Step implementation not found => '[Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used'
+00:15:25.317 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:76 Step implementation not found => '[Maven](https://maven.apache.org/) - Dependency Management'
+00:15:25.317 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:77 Step implementation not found => '[ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds'
+00:15:25.317 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:89 Step implementation not found => '**Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)'
+00:15:25.317 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:99 Step implementation not found => 'Hat tip to anyone whose code was used'
+00:15:25.317 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:100 Step implementation not found => 'Inspiration'
+00:15:25.317 [ValidationError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/README.md:101 Step implementation not found => 'etc'
+00:15:29.523 Plugin [Html Report] with pid [23295] has exited
+00:15:30.030 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:15:30.030 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+00:15:30.030 
+Total time taken: 4.103s
+00:17:15.366 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:17:15.586 Gauge daemon initialized and listening on port: 62525
+00:27:33.740 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:27:34.339 [ParseError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/specs/search.spec:7 Dynamic parameter <https://www.google.co.in> could not be resolved => 'Navigate to <https://www.google.co.in> site and verify google search page is opened'
+00:27:34.339 [ParseWarning] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/specs/search.spec:7 Could not resolve special param type <https://www.google.co.in>. Treating it as dynamic param.
+00:27:35.798 Checking updates...
+00:27:41.776 Plugin [Html Report] with pid [23554] has exited
+00:27:41.879 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:27:41.879 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+00:27:41.879 
+Total time taken: 2.599s
+00:28:10.998 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:28:11.387 [ParseError] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/specs/search.spec:7 Dynamic parameter <https://www.google.co.in> could not be resolved => 'Navigate to <https://www.google.co.in> site and verify google search page is opened'
+00:28:11.387 [ParseWarning] /Users/kkn6124/Codebase/selfPrac2/SearchAssigment/specs/search.spec:7 Could not resolve special param type <https://www.google.co.in>. Treating it as dynamic param.
+00:28:12.722 Checking updates...
+00:28:16.659 Plugin [Html Report] with pid [23628] has exited
+00:28:16.760 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:28:16.760 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+00:28:16.760 
+Total time taken: 1.21s
+00:28:59.265 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:29:00.951 Checking updates...
+00:29:05.314 # Google Search Specification
+00:29:05.317 ## Google search should return the name of query
+00:29:05.320 * Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:29:09.030 Failed Step: Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:29:09.031 Error Message: org.junit.ComparisonFailure: expected:<[Google]> but was:<[https://www.google.co.in/]>
+00:29:09.031 Specification: specs/search.spec:7
+00:29:09.031 Stacktrace: 
+org.junit.Assert.assertEquals(Assert.java:115)
+org.junit.Assert.assertEquals(Assert.java:144)
+com.thoughtworks.gauge.maven.StepImplementation.navigateTo(StepImplementation.java:20)
+00:29:09.224 Plugin [Html Report] with pid [23705] has exited
+00:29:09.733 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:29:09.733 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:29:09.733 
+Total time taken: 5.312s
+00:29:46.863 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:29:48.365 Checking updates...
+00:29:53.208 # Google Search Specification
+00:29:53.211 ## Google search should return the name of query
+00:29:53.216 * Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:29:56.689 Failed Step: Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:29:56.689 Error Message: org.junit.ComparisonFailure: expected:<[Google]> but was:<[https://www.google.co.in/]>
+00:29:56.689 Specification: specs/search.spec:7
+00:29:56.689 Stacktrace: 
+org.junit.Assert.assertEquals(Assert.java:115)
+org.junit.Assert.assertEquals(Assert.java:144)
+com.thoughtworks.gauge.maven.StepImplementation.navigateTo(StepImplementation.java:20)
+00:29:56.877 Plugin [Html Report] with pid [23765] has exited
+00:29:57.389 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:29:57.389 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:29:57.389 
+Total time taken: 5.158s
+00:30:43.775 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:30:45.502 Checking updates...
+00:30:50.021 # Google Search Specification
+00:30:50.023 ## Google search should return the name of query
+00:30:50.025 * Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:30:53.973 Failed Step: Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:30:53.973 Error Message: org.junit.ComparisonFailure: expected:<[Google]> but was:<[https://www.google.co.in/]>
+00:30:53.973 Specification: specs/search.spec:7
+00:30:53.973 Stacktrace: 
+org.junit.Assert.assertEquals(Assert.java:115)
+org.junit.Assert.assertEquals(Assert.java:144)
+com.thoughtworks.gauge.maven.StepImplementation.navigateTo(StepImplementation.java:21)
+00:30:54.257 Plugin [Html Report] with pid [23828] has exited
+00:30:54.764 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:30:54.764 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:30:54.764 
+Total time taken: 5.406s
+00:31:26.137 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:31:27.692 Checking updates...
+00:31:33.922 # Google Search Specification
+00:31:33.925 ## Google search should return the name of query
+00:31:33.928 * Navigate to "https://www.google.co.in" site and verify google search page is opened
+00:31:36.674 * Enter query "query" in the search box
+00:31:36.847 * Verify suggestion is displayed
+00:31:36.908 * Click on find button
+00:31:40.567 * Verify Dictionary is shown with "query" as result
+00:31:40.842 Plugin [Html Report] with pid [23885] has exited
+00:31:40.943 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:31:40.943 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:31:40.943 
+Total time taken: 8.305s
+00:36:02.693 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+00:36:04.580 Checking updates...
+00:36:27.143 Plugin [Html Report] with pid [24013] has exited
+00:36:27.344 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:36:27.344 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:36:27.344 
+Total time taken: 13.748s
+13:02:16.254 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:02:16.261 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+13:02:16.262 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+13:02:16.266 Checking updates...
+13:02:16.267 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+13:02:16.271 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+13:02:16.274 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+13:02:16.275 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+13:02:42.009 Plugin [Html Report] with pid [24171] has exited
+13:02:42.523 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:02:42.523 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:02:42.523 
+Total time taken: 16.571s
+13:03:18.998 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:03:20.992 Checking updates...
+13:03:51.911 Plugin [Html Report] with pid [24234] has exited
+13:03:52.422 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:03:52.422 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:03:52.422 
+Total time taken: 11.679s
+13:04:12.897 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:04:14.548 Checking updates...
+13:04:29.411 Plugin [Html Report] with pid [24257] has exited
+13:04:29.613 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:04:29.614 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:04:29.614 
+Total time taken: 7.472s
+13:22:48.598 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:22:50.215 Checking updates...
+13:23:06.618 Plugin [Html Report] with pid [24865] has exited
+13:23:07.136 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:23:07.136 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:23:07.136 
+Total time taken: 2.872s
+13:23:26.485 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:23:28.286 Checking updates...
+13:23:41.598 Plugin [Html Report] with pid [24879] has exited
+13:23:42.319 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:23:42.319 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:23:42.319 
+Total time taken: 2.067s
+13:24:05.907 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:24:07.503 Checking updates...
+13:24:21.488 Plugin [Html Report] with pid [24895] has exited
+13:24:22.013 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:24:22.013 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:24:22.013 
+Total time taken: 2.462s
+13:25:15.118 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:25:16.827 Checking updates...
+13:25:30.591 Plugin [Html Report] with pid [24915] has exited
+13:25:31.212 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:25:31.212 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:25:31.212 
+Total time taken: 2.485s
+13:36:49.196 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+13:36:49.471 Gauge daemon initialized and listening on port: 62743
+14:06:55.692 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+14:06:55.697 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+14:06:55.698 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+14:06:55.702 Checking updates...
+14:06:55.704 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:06:55.707 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:06:55.709 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:06:55.711 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:07:07.158 Plugin [Html Report] with pid [25288] has exited
+14:07:07.777 Specifications:	0 executed	0 passed	0 failed	0 skipped
+14:07:07.777 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+14:07:07.777 
+Total time taken: 1.678s
+14:08:27.445 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+14:08:27.451 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+14:08:27.452 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+14:08:27.456 Checking updates...
+14:08:27.459 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:08:27.461 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:08:27.463 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:08:27.464 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:08:51.594 Plugin [Html Report] with pid [25312] has exited
+14:08:52.110 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:08:52.111 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:08:52.111 
+Total time taken: 14.876s
+14:26:19.681 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+14:26:19.686 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+14:26:19.687 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+14:26:19.694 Checking updates...
+14:26:19.696 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:26:19.697 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:26:19.699 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:26:19.700 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+14:26:41.122 Plugin [Html Report] with pid [25565] has exited
+14:26:41.428 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:26:41.428 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:26:41.428 
+Total time taken: 12.906s
+14:30:37.504 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+14:30:39.370 Checking updates...
+14:30:54.127 Plugin [Html Report] with pid [25682] has exited
+14:30:54.544 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:30:54.544 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:30:54.544 
+Total time taken: 7.396s
+19:23:49.174 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+19:23:50.905 Checking updates...
+19:24:11.944 Plugin [Html Report] with pid [29658] has exited
+19:24:12.258 Specifications:	1 executed	1 passed	0 failed	0 skipped
+19:24:12.258 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19:24:12.258 
+Total time taken: 7.878s
+19:24:36.555 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+19:24:36.564 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:24:36.566 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:24:36.570 Checking updates...
+19:24:36.574 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:24:36.578 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:24:36.592 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:24:36.598 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:25:00.365 Plugin [Html Report] with pid [29708] has exited
+19:25:00.882 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:25:00.882 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:25:00.882 
+Total time taken: 13.283s
+19:26:53.797 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+19:26:53.805 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:26:53.806 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:26:53.809 Checking updates...
+19:26:53.811 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:26:53.816 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:26:53.817 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:26:53.819 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:27:18.282 Plugin [Html Report] with pid [29830] has exited
+19:27:18.794 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:27:18.794 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:27:18.794 
+Total time taken: 14.538s
+19:28:03.770 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+19:28:03.780 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:28:03.781 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:28:03.789 Checking updates...
+19:28:03.791 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:28:03.796 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:28:03.800 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:28:03.808 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:28:27.812 Plugin [Html Report] with pid [29867] has exited
+19:28:28.324 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:28:28.325 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:28:28.325 
+Total time taken: 14.345s
+19:29:44.260 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+19:29:44.272 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:29:44.273 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:29:44.286 Checking updates...
+19:29:44.297 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:29:44.300 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:29:44.314 Failed to download screenshot-install.json file: Get https://downloads.getgauge.io/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:29:44.319 Failed to download xml-report-install.json file: Get https://downloads.getgauge.io/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+19:30:09.034 Plugin [Html Report] with pid [29914] has exited
+19:30:09.538 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:30:09.539 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:30:09.539 
+Total time taken: 14.63s
+21:46:07.407 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:46:09.073 Checking updates...
+21:46:32.153 Plugin [Html Report] with pid [30987] has exited
+21:46:32.356 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:46:32.357 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:46:32.357 
+Total time taken: 9.011s
+21:50:34.991 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:50:36.550 Checking updates...
+21:51:11.960 Plugin [Html Report] with pid [31070] has exited
+21:51:12.782 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:51:12.782 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:51:12.782 
+Total time taken: 22.409s
+21:52:40.182 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:52:41.722 Checking updates...
+21:53:11.452 Plugin [Html Report] with pid [31121] has exited
+21:53:11.964 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:53:11.964 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:53:11.964 
+Total time taken: 17.863s
+21:54:29.002 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+21:54:31.118 Checking updates...
+21:54:59.530 Plugin [Html Report] with pid [31168] has exited
+21:54:59.945 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:54:59.945 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:54:59.945 
+Total time taken: 16.458s
+22:07:17.239 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:07:19.358 Checking updates...
+22:07:47.073 Plugin [Html Report] with pid [31366] has exited
+22:07:47.387 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:07:47.387 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:07:47.387 
+Total time taken: 13.433s
+22:07:55.744 Gauge Install ID: ecfbf594-7cd9-42c8-95cc-bc1f64346eac
+22:07:57.395 Checking updates...
+22:08:17.358 Plugin [Html Report] with pid [31398] has exited
+22:08:17.563 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:08:17.563 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:08:17.563 
+Total time taken: 6.761s
