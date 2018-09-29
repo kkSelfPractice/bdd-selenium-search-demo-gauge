@@ -8,4 +8,4 @@ Google search should return the result of query
 * Enter query "query" in the search box
 * Verify suggestion is displayed
 * Click on find button
-* Verify Dictionary is shown with "wquery" as result
+* Verify Dictionary is shown with "query" as result
