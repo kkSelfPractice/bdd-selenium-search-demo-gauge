@@ -14,7 +14,7 @@ import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 public class BaseDriverClass {
-    public  static WebDriver driver;
+    public static WebDriver driver;
     private WebDriverWait wait;
 
 
